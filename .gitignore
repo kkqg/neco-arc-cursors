@@ -1,0 +1,9 @@
+# 发布压缩包不放仓库，走 Release
+*.zip
+!images/*
+
+# 临时文件
+tmp/
+*.tmp
+.DS_Store
+Thumbs.db
